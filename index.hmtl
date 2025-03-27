@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lövlund Innovation AB</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #2c3e50;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            display: block;
+            margin: 10px auto;
+            padding: 10px;
+            background-color: white;
+            border: 1px solid #ddd;
+            text-decoration: none;
+            color: #2c3e50;
+            border-radius: 5px;
+            width: 300px;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #e0e0e0;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            padding: 10px;
+            background-color: #2c3e50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lövlund Innovation AB</h1>
+    </header>
+
+    <nav>
+        <a href="doremi.html">DoReMi - Ear Training</a>
+        <a href="bibleverse.html">Bible Verse Daily Inspiration</a>
+        <a href="intervalrandomizer.html">Interval Randomizer</a>
+        <a href="beatboxpad.html">BeatBox Pad: Sound DJ Studio</a>
+        <a href="quotivation.html">Quotivation - Words to Inspire</a>
+        <a href="djkpoppad.html">DJ Kpop Producer - Groove pad</a>
+        <a href="mymotif.html">MyMotif Music Maker</a>
+        <a href="runjump.html">Run & Jump - The Rush</a>
+        <a href="hexaroll.html">Hexagon Color Match - Hexaroll</a>
+        <a href="djmusicpad.html">DJ Music Producer - Groove Pad</a>
+        <a href="djjampad.html">DJ Jam Producer - Groove pad</a>
+    </nav>
+
+    <footer>
+        © 2025 Lövlund Innovation AB
+    </footer>
+</body>
+</html>
